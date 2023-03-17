@@ -9,6 +9,13 @@ Built an ETL pipeline using Python, Pandas and Python dictionary methods or regu
 * Crowdfunding Database
 
 
+## Category and Subcategory DataFrames
+
+## Campaign DataFrame
+
+## Contacts DataFrame
+
+## Crowdfunding Database
 
 ## Created a Table Schema
 
