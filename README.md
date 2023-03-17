@@ -26,9 +26,13 @@ Built an ETL pipeline using Python, Pandas and Python dictionary methods or regu
 
 ## Crowdfunding Database
 
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/115186079/225812055-7caf10cc-b72f-43aa-8986-bfdc23860bca.png">
+
+
+
 ## Created a Table Schema
 
-![image](https://user-images.githubusercontent.com/115186079/225804265-adbf19a2-8a9d-4c77-8fb4-be050ba0565b.png)
+
 
 ## Created an Entity Relationship Diagram (ERD)
 
