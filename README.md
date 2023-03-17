@@ -32,6 +32,7 @@ Built an ETL pipeline using Python, Pandas and Python dictionary methods or regu
 
 ## Created a Table Schema
 
+<img width="305" alt="image" src="https://user-images.githubusercontent.com/115186079/225812637-3e6987f0-a635-4bd1-b140-3661170f3f7a.png">
 
 
 ## Created an Entity Relationship Diagram (ERD)
