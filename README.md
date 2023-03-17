@@ -11,6 +11,9 @@ Built an ETL pipeline using Python, Pandas and Python dictionary methods or regu
 
 ## Category and Subcategory DataFrames
 
+<img width="514" alt="image" src="https://user-images.githubusercontent.com/115186079/225809677-a8ef4612-6af9-4410-9e75-ea07b8e086dd.png">
+
+
 ## Campaign DataFrame
 
 ## Contacts DataFrame
