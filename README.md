@@ -16,6 +16,9 @@ Built an ETL pipeline using Python, Pandas and Python dictionary methods or regu
 
 ## Campaign DataFrame
 
+![image](https://user-images.githubusercontent.com/115186079/225810829-a9b64dd7-b37f-4b3f-a2d2-a3639933672d.png)
+
+
 ## Contacts DataFrame
 
 ## Crowdfunding Database
