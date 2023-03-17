@@ -21,6 +21,9 @@ Built an ETL pipeline using Python, Pandas and Python dictionary methods or regu
 
 ## Contacts DataFrame
 
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/115186079/225811209-b94466c3-0051-405d-93b3-546a6846e0c3.png">
+
+
 ## Crowdfunding Database
 
 ## Created a Table Schema
