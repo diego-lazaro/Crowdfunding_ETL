@@ -1,4 +1,7 @@
-# Crowdfunding_ETL
+#  Creating an ETL Pipeline
+
+![image](https://github.com/diego-lazaro/ETL-Pipeline/assets/115186079/87cbef37-8ae1-45c9-9895-b1292ef6b132)
+
 
 Collabrotaed with a partner to build an ETL pipeline using Python, Pandas, and Python dictionary methods, or regular expressions to extract and transform a dataset to create four CSV files. Utilized the CSV files to create an ERD and schema table to upload CSV files data into a Postgres database.
 
